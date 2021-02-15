@@ -13,8 +13,6 @@
     <dict>
         <key>NAME</key>
         <string>avidemux</string>
-        <key>SEARCH_URL</key>
-        <string>http://www.fosshub.com/Avidemux.html</string>
         <key>SEARCH_PATTERN</key>
         <string>\/Avidemux.html.(Avidemux_([0-9].[0-9].[0-9])_Sierra_64Bits_Qt5)\.dmg</string>
         <key>SEARCH_PATTERN2</key>
